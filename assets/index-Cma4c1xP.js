@@ -19,7 +19,7 @@ import{f as d,g as n,j as I,v,k as S,l as z,F as w,o as b,q as k,t as y,x as m,y
           border-top: 2px solid #000;
           text-align: center;
           color: #000;
-          font-size: 48pt;
+          font-size: 32pt;
         ">
           日期：${this.formatDateTime(new Date)}
         </div>
